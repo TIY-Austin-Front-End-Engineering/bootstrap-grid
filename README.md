@@ -1,7 +1,7 @@
 # Bootstrap Grid
 
 ## Description
-User Bootstrap to duplicate the following responsive design.
+Use Bootstrap to duplicate the following responsive design.
 
 
 ## Objectives
