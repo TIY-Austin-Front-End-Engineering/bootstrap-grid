@@ -1,0 +1,16 @@
+{
+    "name": "bootstrap-grid",
+    "version": "0.0.1",
+    "title": "Bootstrap Grid",
+    "description": "User Bootstrap to duplicate the following responsive design.",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "Bootstrap",
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "grid"
+    ]
+}
