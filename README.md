@@ -55,6 +55,8 @@ You will want to use the following bootstrap classes:
 * `img-responsive`
 * `badge`
 
+Images can be found [here](/images).
+
 ## Additional Resources
 
 * Read [Bootstrap Documentation](http://getbootstrap.com/)
