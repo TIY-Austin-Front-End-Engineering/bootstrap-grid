@@ -37,10 +37,10 @@ After completing this assignment, you be able to effectively use
 ## Normal Mode
 Use the bootstrap grid system to replicate the following responsive website. Use the built in Bootstrap breakpoints.
 
-1. [Breakpoint 1](images/breakpoint1.png)
-2. [Breakpoint 2](images/breakpoint2.png)
-3. [Breakpoint 3](images/breakpoint3.png)
-4. [Breakpoint 4](images/breakpoint4.png)
+1. [Breakpoint 1](images/breakpoint1.jpg)
+2. [Breakpoint 2](images/breakpoint2.jpg)
+3. [Breakpoint 3](images/breakpoint3.jpg)
+4. [Breakpoint 4](images/breakpoint4.jpg)
 
 
 ## Notes
